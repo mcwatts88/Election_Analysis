@@ -26,7 +26,7 @@ Tom, an employee of the Colorado Board of Elections, has been tasked with develo
 
 This data was generated and printed out in a text file by the script as seen below.
 
-![text_file_output.png](https://github.com/mcwatts88/Election-Analysis/blob/main/Resources/text_file_output.png)
+![text_file_output.PNG](https://github.com/mcwatts88/Election_Analysis/blob/main/Resources/text_file_output.PNG)
 
 ## Election Audit Summary
 
